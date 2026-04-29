@@ -17,10 +17,8 @@ L’approche repose sur une **Analyse Factorielle Discriminante (AFD)** appliqu�
 
 ## 📁 Contenu du repository
 
-* `data/` : base de données utilisée (échantillon nettoyé)
-* `notebook/Projet_ADD.ipynb` : notebook principal (prétraitement, analyse, modélisation)
-* `assets/` : logos et éléments visuels
-* `rapport.pdf` : synthèse complète du projet
+* `Base_finale.dta` : base de données utilisée (échantillon nettoyé)
+* `Projet_ADD.ipynb` : notebook principal (prétraitement, analyse, modélisation)
 * `README.md` : présentation du projet
 
 ---
