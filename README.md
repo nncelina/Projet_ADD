@@ -78,11 +78,8 @@ L’approche repose sur une **Analyse Factorielle Discriminante (AFD)** appliqu�
 
 ## 🎥 Ressources complémentaires
 
-* 📓 Notebook interactif :
-  https://nbviewer.org/github/nncelina/ADD_ISE1/blob/main/Projet_ADD.ipynb
-
-* 🎬 Vidéo de présentation :
-  https://kcgu.my.canva.site/video-add-afd
+🎬 Vidéo de présentation :
+ https://kcgu.my.canva.site/video-add-afd
 
 ---
 
